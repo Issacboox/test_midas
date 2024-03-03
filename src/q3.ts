@@ -53,4 +53,4 @@ const board: Board = {
     snakes: [[21, 4], [30, 8], [55, 38], [79, 42], [87, 54], [91, 48], [96, 66]]
 };
 
-console.log(quickestPath(board)); // Output: [ 2, 5, 6, 6, 1 ]
+console.log(quickestPath(board)); 
