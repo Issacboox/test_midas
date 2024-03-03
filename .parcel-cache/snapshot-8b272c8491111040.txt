@@ -1,8 +1,8 @@
-5948
-45D:\test_midas\dist\test_midas.3464ddca.js.map133539233336684988 0
+5950
+45D:\test_midas\dist\test_midas.3464ddca.js.map133539258942747277 0
 97D:\test_midas\node_modules\css-select\node_modules\entities\lib\generated\decode-data-html.js.map133539168824701404 0
 43D:\test_midas\node_modules\timsort\index.js133539168822613024 0
-41D:\test_midas\dist\test_midas.3464ddca.js133539233336664925 0
+41D:\test_midas\dist\test_midas.3464ddca.js133539258942727300 0
 93D:\test_midas\node_modules\css-select\node_modules\entities\lib\generated\decode-data-html.js133539168823259622 0
 103D:\test_midas\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\MediaFeature.js133539168826300066 0
 58D:\test_midas\node_modules\semver\ranges\min-satisfying.js133539168824578059 0
@@ -26,7 +26,7 @@
 33D:\test_midas\node_modules\semver133539168825379703 1
 35D:\test_midas\node_modules\get-port133539168822828690 1
 25D:\test_midas\.prettierrc133539171534612874 0
-18D:\test_midas\dist133539233336694987 1
+18D:\test_midas\dist133539258942747277 1
 51D:\test_midas\node_modules\dotenv-expand\index.d.ts133539168822462647 0
 106D:\test_midas\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\cleanupEnableBackground.js133539168823703061 0
 37D:\test_midas\node_modules\semver\bin133539168825094248 1
@@ -42,7 +42,7 @@
 69D:\test_midas\node_modules\svgo\plugins\removeAttributesBySelector.js133539168825859286 0
 75D:\test_midas\node_modules\@swc\helpers\_\_array_like_to_array\package.json133539168829279369 0
 84D:\test_midas\node_modules\csso\node_modules\css-tree\cjs\syntax\node\MediaQuery.cjs133539168826080606 0
-24D:\test_midas\index.html133539232193884037 0
+24D:\test_midas\index.html133539258940963018 0
 92D:\test_midas\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\types.d.ts.map133539168824588118 0
 32D:\test_midas\node_modules\@lmdb133539170976499534 1
 26D:\test_midas\package.json133539174004175429 0
@@ -94,7 +94,7 @@
 44D:\test_midas\node_modules\@msgpackr-extract133539170976499534 1
 54D:\test_midas\node_modules\css-tree\lib\utils\clone.js133539168827112382 0
 58D:\test_midas\node_modules\source-map-js\lib\quick-sort.js133539168823229545 0
-23D:\test_midas\src\q2.ts133539232535627266 0
+23D:\test_midas\src\q2.ts133539246152125482 0
 50D:\test_midas\node_modules\source-map\package.json133539168821899341 0
 84D:\test_midas\node_modules\@parcel\workers\test\integration\workerfarm\master-sum.js133539168831139184 0
 51D:\test_midas\node_modules\term-size\vendor\windows133539168822984593 1
@@ -112,7 +112,7 @@
 104D:\test_midas\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\restructure\prepare\index.js133539168825049026 0
 60D:\test_midas\node_modules\@parcel\reporter-cli\src\utils.js133539168854801570 0
 52D:\test_midas\node_modules\lmdb\dependencies\lz4\lib133539168827142489 1
-23D:\test_midas\src\q3.ts133539231968339025 0
+23D:\test_midas\src\q3.ts133539258859346498 0
 23D:\test_midas\src\q4.ts133539232040456104 0
 61D:\test_midas\node_modules\type-fest\ts41\delimiter-case.d.ts133539168823753061 0
 106D:\test_midas\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\generic-an-plus-b.js133539168825541284 0
@@ -2802,7 +2802,7 @@
 66D:\test_midas\node_modules\caniuse-lite\data\features\web-share.js133539168833000096 0
 84D:\test_midas\node_modules\dom-serializer\node_modules\entities\lib\maps\legacy.json133539168823439939 0
 70D:\test_midas\node_modules\caniuse-lite\data\features\css-selection.js133539168827966876 0
-36D:\test_midas\dist\index.cb414758.js133539232536136388 0
+36D:\test_midas\dist\index.cb414758.js133539246152305482 0
 49D:\test_midas\node_modules\dom-serializer\lib\esm133539168823958586 1
 72D:\test_midas\node_modules\csso\node_modules\css-tree\lib\utils\names.js133539168827842277 0
 63D:\test_midas\node_modules\dom-serializer\lib\foreignNames.d.ts133539168823908560 0
@@ -3820,7 +3820,7 @@
 64D:\test_midas\node_modules\caniuse-lite\data\features\netinfo.js133539168831650801 0
 64D:\test_midas\node_modules\@parcel\resolver-default\package.json133539168845733828 0
 91D:\test_midas\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133539168831129187 0
-40D:\test_midas\dist\index.cb414758.js.map133539232536169953 0
+40D:\test_midas\dist\index.cb414758.js.map133539246152325455 0
 58D:\test_midas\node_modules\caniuse-lite\data\regions\CK.js133539168826550972 0
 61D:\test_midas\node_modules\@parcel\core\src\resolveOptions.js133539168859437810 0
 58D:\test_midas\node_modules\caniuse-lite\data\regions\CU.js133539168828299105 0
@@ -5946,4 +5946,6 @@
 36D:\test_midas\node_modules\.bin\svgo133539168859979781 0
 58D:\test_midas\node_modules\.bin\update-browserslist-db.ps1133539168859979781 0
 40D:\test_midas\dist\index.77c95d95.js.map133539231706750875 0
-29D:\test_midas\dist\index.html133539232213486752 0
+29D:\test_midas\dist\index.html133539258942557238 0
+36D:\test_midas\dist\index.bed60da4.js133539258942687269 0
+40D:\test_midas\dist\index.bed60da4.js.map133539258942697310 0
